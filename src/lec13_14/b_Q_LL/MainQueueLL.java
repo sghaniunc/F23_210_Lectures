@@ -1,4 +1,4 @@
-package lec13_14.b_Q_AL;
+package lec13_14.b_Q_LL;
 
 // Example of Queues using Linked Lists without interfaces
 public class MainQueueLL {

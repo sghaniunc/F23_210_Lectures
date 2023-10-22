@@ -1,4 +1,4 @@
-package lec13_14.b_Q_AL;
+package lec13_14.b_Q_LL;
 
 // Queue: Linked List implementation without Interfaces
 // First In First Out (FIFO)

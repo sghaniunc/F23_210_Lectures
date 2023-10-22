@@ -1,4 +1,4 @@
-package lec13_14.b_Q_AL;
+package lec13_14.b_Q_LL;
 
 public class Node<T> {
     T _value;
